@@ -10,7 +10,6 @@ export class ProfilePersonalInfoComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log("I am in personal info");
   }
 
 }

@@ -10,7 +10,6 @@ export class ProfileLoginSecurityComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log("I am in login and security");
   }
 
 }

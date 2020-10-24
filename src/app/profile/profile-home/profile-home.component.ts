@@ -10,7 +10,6 @@ export class ProfileHomeComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log("I am in profile home");
   }
 
 }

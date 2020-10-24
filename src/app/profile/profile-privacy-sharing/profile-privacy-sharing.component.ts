@@ -10,7 +10,6 @@ export class ProfilePrivacySharingComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log("I am in privacy and sharing");
   }
 
 }

@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { BasicComponent } from './basic/basic.component';
 import { ProfileHomeComponent } from './profile-home/profile-home.component';
 import { ProfileLoginSecurityComponent } from './profile-login-security/profile-login-security.component';
 import { ProfilePersonalInfoComponent } from './profile-personal-info/profile-personal-info.component';
