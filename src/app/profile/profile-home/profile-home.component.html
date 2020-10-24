@@ -1,0 +1,12 @@
+<nav>
+  <div class="nav nav-tabs">
+    <a class="nav-item nav-link" [routerLink]="['/profile/personal-info']" [routerLinkActive]="['active']" [routerLinkActiveOptions]="{exact: true}">Personal Info</a>
+    <a class="nav-item nav-link" [routerLink]="['/profile/login-security']" [routerLinkActive]="['active']" [routerLinkActiveOptions]="{exact: true}"> Login & Security</a>
+    <a class="nav-item nav-link" [routerLink]="['/profile/privacy-sharing']" [routerLinkActive]="['active']" [routerLinkActiveOptions]="{exact: true}"> Privacy & Sharing</a>    
+  </div>
+</nav>
+<div class="tab-content" id="nav-tabContent">
+  <router-outlet>
+
+  </router-outlet>
+</div>
