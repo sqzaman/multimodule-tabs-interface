@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Screens
 
 ![image](https://user-images.githubusercontent.com/1064462/97093081-3c7fcf00-1617-11eb-8383-fddd6d80bc49.png)
+
+![image](https://user-images.githubusercontent.com/1064462/97093144-8a94d280-1617-11eb-9290-7aa4c8b6a2c2.png)
+
+![image](https://user-images.githubusercontent.com/1064462/97093152-96809480-1617-11eb-8429-66a1ce450636.png)
